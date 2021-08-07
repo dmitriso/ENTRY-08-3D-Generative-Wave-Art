@@ -10,6 +10,9 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.1 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/127928821-b61b465c-0632-4635-8fcd-2129b066ce2d.mp4)|
 | 8.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/128379294-2967146c-1e44-4578-8543-4019e8d03a21.mp4)|
 | 8.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/128535925-17ab7e7a-5768-443d-9884-f6d107fe509a.mp4)|
+| 8.4 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/128603835-9059d290-3fa9-4864-928a-016c3269eb52.mp4)|
+
+
 
 
 
