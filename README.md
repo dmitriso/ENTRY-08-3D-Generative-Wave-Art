@@ -14,17 +14,9 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.5 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/128737606-c95924ad-2ed1-49be-b7fb-4b570bf43e50.mp4)|
 | 8.6 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/128922065-a7521d74-f4b6-4728-a6b0-ce83e7fae9ac.mp4)|
 | 8.7 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129266254-62219418-c2e2-4bb9-b178-0c0e2d7114f0.mp4)|
+| 8.8 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129418424-5ce02a69-bdf9-4271-9bed-fae6fb515650.mp4)|
 
-
-
-
-
-
-
-
-
-
-  
+ 
 ### Author
 Dmitri K. So
 
