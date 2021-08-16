@@ -12,7 +12,7 @@ function CameraControls() {
   } = useThree();
 
   const controlsRef = useRef();
-  // useFrame(() => controlsRef.current.update())
+  useFrame(() => controlsRef.current.update())
 
   return (
     <orbitControls
