@@ -11,7 +11,7 @@ function Points() {
     let f = 0.0006;
     let a = 50;
     const graph = useCallback((x, z) => {
-      return Math.sin(f * (x ** 2 + z * 350 + t)) * a;
+      return Math.sin(f * (x * 30 / z * 35 + t)) * a;
     }, [t, f, a],
     )
   
