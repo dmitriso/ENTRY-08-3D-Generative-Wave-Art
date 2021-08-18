@@ -17,6 +17,8 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.8 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129418424-5ce02a69-bdf9-4271-9bed-fae6fb515650.mp4)|
 | 8.9 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129611015-279ddf13-eb21-4bc8-9b22-420e92e3f246.mp4)|
 | 8.0.1 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129756572-394fe43c-07e9-41ba-8384-2f1016d68f1f.mp4)|
+| 8.0.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129930764-96369228-88e8-444b-81de-d77ef7866f8b.mp4)|
+
 
 
 
