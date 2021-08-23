@@ -20,6 +20,10 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.0.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129930764-96369228-88e8-444b-81de-d77ef7866f8b.mp4)|
 | 8.0.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130107257-d8360ba8-f086-4abc-a8af-d1f1c84e5ca8.mp4)|
 | 8.0.4 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130273041-25cb355a-5f58-41b3-99ba-932effe4e6bd.mp4)|
+| 8.0.5 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130483310-406febb2-f2ed-4b77-8936-5ea21782d111.mp4)|
+
+
+
 
 
 
