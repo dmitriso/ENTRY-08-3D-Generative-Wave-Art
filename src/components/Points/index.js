@@ -8,10 +8,10 @@ function Points() {
     const dotTexture = useLoader(THREE.TextureLoader, dotParticle);
     const bufferRef = useRef();
     let t = 0;
-    let f = 0.0006;
-    let a = 50;
+    let f = 0.00006;
+    let a = 5;
     const graph = useCallback((x, z) => {
-      return Math.sin(f * (x * 30 / z * 35 + t)) * a;
+      return Math.sin(f * (x / 3 * z *  + t)) * a;
     }, [t, f, a],
     )
   
@@ -32,7 +32,7 @@ function Points() {
     }, [count, sep, graph])
   
     useFrame(() => {
-      t += 1
+      t += 6
       const positions = bufferRef.current.array;
       let i = 0;
       for (let xi = 0; xi < count; xi++) {
