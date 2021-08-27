@@ -9,9 +9,9 @@ function Points() {
     const bufferRef = useRef();
     let t = 0;
     let f = 0.00006;
-    let a = 5;
+    let a = 10;
     const graph = useCallback((x, z) => {
-      return Math.sin(f * (x / 3 * z *  + t)) * a;
+      return Math.sin(f * (x ** 3 + z *  + t)) * a;
     }, [t, f, a],
     )
   
