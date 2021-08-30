@@ -9,14 +9,14 @@ function Points() {
     const bufferRef = useRef();
     let t = 0;
     let f = 0.00006;
-    let a = 10;
+    let a = 50;
     const graph = useCallback((x, z) => {
-      return Math.sin(f * (x ** 3 + z *  + t)) * a;
+      return Math.sin(f * (x * 8 * z * 9  + t)) * a;
     }, [t, f, a],
     )
   
     const count = 100;
-    const sep = 1;
+    const sep = .5;
   
     let positions = useMemo(() => {
       let positions = []
@@ -32,14 +32,14 @@ function Points() {
     }, [count, sep, graph])
   
     useFrame(() => {
-      t += 6
+      t += 9
       const positions = bufferRef.current.array;
       let i = 0;
       for (let xi = 0; xi < count; xi++) {
         for (let zi = 0; zi < count; zi++) {
-          let x = sep * (xi - count / 2);
-          let z = sep * (zi - count / 2);
-          positions[i + 1] = graph(x, z);
+          let x = sep * (xi - count + 2);
+          let z = sep * (zi - count + 2);
+          positions[i + 900] = graph(x, z);
           i += 3;
         }
       }
