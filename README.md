@@ -28,6 +28,8 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.1.0 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/131533432-f09220fa-4d43-4f69-be15-34beab0de2b7.mp4)|
 | 8.1.1 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/131732199-e9deaa92-e6ea-4c56-8e6a-a0e2c5f690ea.mp4)|
 | 8.1.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/131888924-d76f1e71-0d33-4a4b-b69b-4ad55d0f294d.mp4)|
+| 8.1.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/132703158-74e1be0f-ac02-4391-9778-165c1fe84413.mp4)|
+
 
 
 
