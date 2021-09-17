@@ -30,6 +30,7 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.1.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/131888924-d76f1e71-0d33-4a4b-b69b-4ad55d0f294d.mp4)|
 | 8.1.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/132703158-74e1be0f-ac02-4391-9778-165c1fe84413.mp4)|
 | 8.1.4 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/132862530-6c53b2c9-8a38-410b-87c9-627dbfb3d320.mp4)|
+| 8.1.5 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/133706250-76cc4caf-66c0-4c52-a1a3-b2cdac7aebd8.mp4)|
 
 
 
