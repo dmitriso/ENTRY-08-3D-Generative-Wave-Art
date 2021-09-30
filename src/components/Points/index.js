@@ -8,10 +8,10 @@ function Points() {
     const dotTexture = useLoader(THREE.TextureLoader, dotParticle);
     const bufferRef = useRef();
     let t = 0;
-    let f = 0.00006;
-    let a = 50;
+    let f = 0.0003;
+    let a = 30;
     const graph = useCallback((x, z) => {
-      return Math.sin(f * (x * 8 * z * 9  + t)) * a;
+      return Math.sin(f * (x * 500  / z * 3  + t)) * a;
     }, [t, f, a],
     )
   
@@ -32,15 +32,15 @@ function Points() {
     }, [count, sep, graph])
   
     useFrame(() => {
-      t += 9
+      t += 5
       const positions = bufferRef.current.array;
       let i = 0;
       for (let xi = 0; xi < count; xi++) {
         for (let zi = 0; zi < count; zi++) {
-          let x = sep * (xi - count + 2);
-          let z = sep * (zi - count + 2);
-          positions[i + 900] = graph(x, z);
-          i += 3;
+          let x = sep * (xi + count / 1 * 9);
+          let z = sep * (zi - count / 3 * 5);
+          positions[i += 0.5 ] = graph(x, z);
+          i += 1;
         }
       }
       bufferRef.current.needsUpdate = true;
@@ -53,7 +53,7 @@ function Points() {
             ref={bufferRef}
             attachObject={['attributes', 'position']}
             array={positions}
-            count={positions.length / 3}
+            count={positions.length / 2}
             itemSize={3}
           />
         </bufferGeometry>
@@ -62,7 +62,7 @@ function Points() {
           map={dotTexture}
           color={0x0aff2b}
           size={1}
-          transparent={false}
+          transparent={true}
           alphaTest={.5}
           opacity={1}
         />

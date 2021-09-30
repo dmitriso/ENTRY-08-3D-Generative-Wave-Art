@@ -19,7 +19,7 @@ function CameraControls() {
       ref={controlsRef}
       args={[camera, domElement]}
       autoRotate
-      autoRotateSpeed={-0.5}
+      autoRotateSpeed={-5}
     />
   )
 }

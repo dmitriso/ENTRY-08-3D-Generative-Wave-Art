@@ -8,6 +8,7 @@ function AnimationCanvas() {
       <Canvas
         colorManagment={false}
         camera={{ position: [100, 10, 0], fov: 75 }}
+        // preserveDrawingBuffer={true}
       >
         <directionalLight color="white" position={[0,20,1]} intensity={10}/>
         <Suspense fallback={null}>
