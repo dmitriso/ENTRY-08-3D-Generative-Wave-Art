@@ -18,7 +18,7 @@ A generative art piece I've created using HTML, CSS, Javascript, React, React-Th
 | 8.9 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129611015-279ddf13-eb21-4bc8-9b22-420e92e3f246.mp4)| 8.2.9 |[Recorded Demo](https://user-images.githubusercontent.com/64864829/139062587-f6884189-f6ec-49cc-8ff4-1dac10fe7560.mp4)|
 | 8.0.1 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129756572-394fe43c-07e9-41ba-8384-2f1016d68f1f.mp4)| 8.3.0 |[Recorded Demo](https://user-images.githubusercontent.com/64864829/139359409-6d1b9ea5-5a52-4283-91f0-48e474cfaf70.mp4)|
 | 8.0.2 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/129930764-96369228-88e8-444b-81de-d77ef7866f8b.mp4)| 8.3.1 |[Recorded Demo](https://user-images.githubusercontent.com/64864829/140613641-b73123a0-7b26-446b-9fa4-8020cb23b40b.mp4)|
-| 8.0.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130107257-d8360ba8-f086-4abc-a8af-d1f1c84e5ca8.mp4)|
+| 8.0.3 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130107257-d8360ba8-f086-4abc-a8af-d1f1c84e5ca8.mp4)| 8.3.2 |[Recorded Demo](https://user-images.githubusercontent.com/64864829/141595550-8679cbe0-ff0d-484a-b71f-a40311aaa7c5.mp4)|
 | 8.0.4 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130273041-25cb355a-5f58-41b3-99ba-932effe4e6bd.mp4)|
 | 8.0.5 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130483310-406febb2-f2ed-4b77-8936-5ea21782d111.mp4)|
 | 8.0.6 | [Recorded Demo](https://user-images.githubusercontent.com/64864829/130649083-459ad74f-9acb-4702-93d4-6ceae7ea6ed2.mp4)|
